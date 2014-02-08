@@ -3,7 +3,7 @@
 Name:		python-%{fname}
 Summary:	Python module for OAuth
 Version:	1.0.1
-Release:	4
+Release:	5
 Source0:	http://pypi.python.org/packages/source/o/%{fname}/%{fname}-%{version}.tar.gz
 URL:		http://code.google.com/p/oauth/
 Group:		Development/Python
