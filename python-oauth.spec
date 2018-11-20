@@ -11,6 +11,8 @@ Source0:	http://pypi.python.org/packages/source/o/%{fname}/%{fname}-%{version}.t
 BuildArch:	noarch
 BuildRequires:	intltool
 BuildRequires:	python-distribute
+BuildRequires:	python-pkg-resources
+BuildRequires:	python2-pkg-resources
 BuildRequires:	python2-distribute
 BuildRequires:	pkgconfig(python)
 Requires:	python
