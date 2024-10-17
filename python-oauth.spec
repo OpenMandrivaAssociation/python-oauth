@@ -6,7 +6,7 @@ Version:	1.0.1
 Release:	18
 Group:		Development/Python
 License:	ASL 2.0
-Url:		http://code.google.com/p/oauth/
+Url:		https://code.google.com/p/oauth/
 Source0:	http://pypi.python.org/packages/source/o/%{fname}/%{fname}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	intltool
