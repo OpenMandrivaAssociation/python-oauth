@@ -3,7 +3,7 @@
 Summary:	Python module for OAuth
 Name:		python-%{fname}
 Version:	1.0.1
-Release:	19
+Release:	20
 Group:		Development/Python
 License:	ASL 2.0
 Url:		https://code.google.com/p/oauth/
