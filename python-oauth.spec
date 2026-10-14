@@ -10,8 +10,7 @@ Url:		https://code.google.com/p/oauth/
 Source0:	http://pypi.python.org/packages/source/o/%{fname}/%{fname}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	intltool
-BuildRequires:	python3dist(setuptools)
-BuildRequires:	python-pkg-resources
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	pkgconfig(python3)
 Requires:	python
 
